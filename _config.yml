@@ -3,7 +3,7 @@ title: TJs Jekyll Site on Netlfiy
 email: iamtjbaker@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my first Jekyll site. I've created it because I want to work for Netlify. I hope you like it!
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "https://itsallgood.netlify.app/" # the subpath of your site, e.g. /blog/
 url: "https://itsallgood.netlify.app/" # the base hostname & protocol for your site
 twitter_username: zaridan
 github_username:  zaridan
