@@ -9,8 +9,8 @@ categories: netlify questions
 ---
 <blockquote>Talk about how you made your site and why you chose the tools you did. Briefly explain one challenge you experienced in setting up this site and how you solved it.</blockquote>
 
-<p>Looking at all of the options available, after initially trying out Netlify CMS, I decided to go with Jekyll to build this site. I made this decision after getting the CMS all set up and quickly realizing that I probably didn't have time to learn the system as well as I would want or need to in order to finish this exercise. </br>
-Once I got Jekyll deployed to Netlify, I cloned the repo locally and then added the repo folder to Atom as a project folder so I could get to work.</p>
+<p>Looking at all of the options available, after initially trying out Netlify CMS, I decided to go with Jekyll to build this site. I made this decision after getting the CMS all set up and quickly realizing that I probably didn't have time to learn the system as well as I would want or need to in order to finish this exercise.</p>
+<p>Once I got Jekyll deployed to Netlify, I cloned the repo locally and then added the repo folder to Atom as a project folder so I could get to work.</p>
 
 <p>One challenge I had right after deploying was in the Neflity setup steps, with Step 2 offering me to use a custom domain, and getting a bit stuck on wether I needed to set one up (register a domain and all that). I decided to just skip that step and see what happened, and found that the site was hosted at the URL that was set up by Netlify and I didn't need to use a custom domain.</p>
 
