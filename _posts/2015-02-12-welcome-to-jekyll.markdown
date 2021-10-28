@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Welcome to my site!"
+excerpt:
+         <h3>Add a Custom Excerpt to Your Post</h3>
+         <p>Find out how!</p>
 date:   2021-10-27
 categories: netlify questions
 ---
