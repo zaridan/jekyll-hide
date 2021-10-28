@@ -14,9 +14,13 @@ categories: netlify questions
 
 <p>One challenge I had right after deploying was in the Neflity setup steps, with Step 2 offering me to use a custom domain, and getting a bit stuck on wether I needed to set one up (register a domain and all that). I decided to just skip that step and see what happened, and found that the site was hosted at the URL that was set up by Netlify and I didn't need to use a custom domain.</p>
 
+<hr>
+
 <blockquote>What did you think of our service during the time you used it? Provide either some constructive criticism or some points that impressed you. Be honest! “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)</blockquote>
 
 <p>I think the service is great! As someone completely new to Netlify, as well being somewhat new to deploying different site building stacks, it made the job very easy and accessible. The one thing I might suggest is to maybe add some tooltips or other directions when getting to Step 2, so that a total noob like me could simply move on and not feel a need to set up a custom domain.</p>
+
+<hr>
 
 
 <blockquote>Rank your 5 favorite, and 5 least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6</blockquote>
@@ -40,15 +44,22 @@ categories: netlify questions
 </ul>
 </p>
 
+<hr>
 
 <blockquote>Provide a link to documentation for a technical/developer-focused product, which you think are well done, and explain why you think they are well done.</blockquote>
-
+<p>I'm a big fan of the documentation provided by Stripe: https://stripe.com/docs<p>
+<p>Stripe has done a fantastic job of setting up a documentation site that is well structured, filled with very well written and helpful documentation, and is pleasing to look at. In addition to providing clear and helpful documentation on the functions they offer, they also provide great examples that can be cloned for testing. I think it's one of the best documented solutions I've seen.</p>
 
 <blockquote>Why do you think SSL/HTTPS is important? Please provide at least 3 reasons.</blockquote>
+<ul>
+  <li>SSL/HTTPS is important because it helps protect users of the internet by providing trusted sources and by helping to protect their personal information</li>
+  <li>SSL/HTTPS is important because it helps businesses build trust in their visitors/customers, and helps protect their sites</li>
+  <li>SSL/HTTPS is important because it authenticates all the things!
 
+<hr>
 
 <blockquote>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical customers hosting websites.</blockquote>
-
+<p>... to be continued</p>
 
 <blockquote>A customer writes in saying their “site won’t build”. You have access to their build logs, and there you see this error: Build failed due to a user error: Build script returned non-zero exit code: 2. You have no more information than this and the site’s source repository is private so you cannot test the build yourself. How would you troubleshoot this issue? Please compose your best customer-facing answer.</blockquote>
 
