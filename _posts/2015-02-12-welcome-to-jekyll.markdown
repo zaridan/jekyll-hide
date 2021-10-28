@@ -5,7 +5,7 @@ excerpt:
          <h3>Add a Custom Excerpt to Your Post</h3>
          <p>Find out how!</p>
 date:   2021-10-27
-categories: netlify questions
+categories: 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
