@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I have answer. Click here to see them!"
+title:  "I have (some) Answers!"
 excerpt:
          <h3>Add a Custom Excerpt to Your Post</h3>
          <p>Find out how!</p>
