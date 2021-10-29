@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Question 2 - Thoughts on Netlify Service"
+date: 2021-10-02 14:40:46
 categories: netlify questions
 ---
 

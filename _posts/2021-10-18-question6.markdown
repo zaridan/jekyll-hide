@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Question 6 - DNS"
+date: 2021-10-06 14:40:50
 categories: netlify questions
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Question 3 - 5 Things"
+date: 2021-10-03 14:40:47
 categories: netlify questions
 ---
 <p><blockquote>Rank your 5 favorite, and 5 least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6</blockquote></p>

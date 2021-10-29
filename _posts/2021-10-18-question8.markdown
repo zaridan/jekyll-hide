@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Question 8 - Redirects"
+date: 2021-10-08 14:40:52
 categories: netlify questions
 ---
 

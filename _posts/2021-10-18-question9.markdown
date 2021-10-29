@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Question 9 - Functions on Netlify"
+date: 2021-10-09 14:40:53
 categories: netlify questions
 ---
 
