@@ -14,4 +14,4 @@ Thank you for writing. This error can occur under a number of different scenario
 <p>Please let us know if you have any additional questions we can assist with<p>
 <p>I look forward to hearing how it goes, and to seeing your successful build!</p>
 <p>Best,<br>
-TJ Baker - Netlfiy Support</blockquote></p>
+TJ Baker - Netlfiy Support</p></blockquote></p>
