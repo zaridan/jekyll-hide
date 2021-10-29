@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/api/"
+  from = "/proxy"
   to = "https://jsonplaceholder.typicode.com/todos/1"
   status = 200
   force = true
