@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/proxy"
-  to = "https://jsonplaceholder.typicode.com/todos/1"
+  to = "https://swapi.dev/api/people/1/"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
