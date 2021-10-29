@@ -80,12 +80,12 @@ TJ Baker - Netlfiy Support</p>
 
 <p><blockquote>How would you set up an http 301 status redirect from “/netlify/anything” on your site, to https://www.google.com/search?q=anything How about a proxy redirect? Please add that proxy redirect rule to your site.</blockquote></p>
 
-<p>To set up the 301 redirect I would the netlify.toml file and add the following:</p>
-<code>[[redirects]]
-  from = "/netlify/anything"
-  to = "https://www.google.com/search?q=anything"
-  status = 301
-  force = true
+<p>To set up the 301 redirect I would use the netlify.toml file and add the following:</p>
+<code>[[redirects]] \n
+  from = "/netlify/anything" \n
+  to = "https://www.google.com/search?q=anything" \n
+  status = 301 \n
+  force = true \n
   headers = {X-From = "Netlify"}</code>
 
 
