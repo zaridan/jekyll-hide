@@ -5,4 +5,7 @@
   force = true
   headers = {X-From = "Netlify"}
 
-  
+
+  [build]
+    Functions = "lambda"
+    Command = "npm run build:lambda"
