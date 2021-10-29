@@ -60,11 +60,23 @@ categories: netlify questions
 </p>
 
 
-
 <p><blockquote>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical customers hosting websites.</blockquote></p>
-<p>... to be continued</p>
+
+<p>One issue I've seen less-technical people have with DNS and hosting their website shows up when they register their domain with one service, and host their site with another. Problems can show up with knowing how to find the nameservers that the hosting company provides, and knowing where to put that information on the registrare side so that the domain uses the hosting name servers.</p>
+<p>Another very common issue I've seen people ask about over the years is with how quickly a domain will propegate. Less-technical people, or those new to setting up DNS, often don't know that it can take some time (we typically say to allow up to 72 hours) for a domain to propegate. It's often expected that as soon as DNS settings are saved, the website will be live... which as we all know simply is not the case.</p>
 
 <p><blockquote>A customer writes in saying their “site won’t build”. You have access to their build logs, and there you see this error: Build failed due to a user error: Build script returned non-zero exit code: 2. You have no more information than this and the site’s source repository is private so you cannot test the build yourself. How would you troubleshoot this issue? Please compose your best customer-facing answer.</blockquote></p>
+
+<p>If all the build log shows is this error, and no other information, I am going to have to share basic troubleshooting steps to the customer to help steer them torward a resolution through iterations. I might write something like:</p>
+
+<p>Hello <customer first name>,<br>
+<br>
+Thank you for writing. This error can occur under a number of different scenarios. To work through this issue I'd start by asking if you have been able to successfully run a build previously? If so, let's take a look back at the successful build, and re-introduce your updates to your code one at a time, so that we can identify the change that introduced the issue.<p>
+<p>Please let us know if you have any additional questions we can assist with<p>
+<p>I look forward to hearing how it goes, and to seeing your successful build!</p>
+<p>Best,<br>
+TJ Baker - Netlfiy Support</p>
+
 
 
 <p><blockquote>How would you set up an http 301 status redirect from “/netlify/anything” on your site, to https://www.google.com/search?q=anything How about a proxy redirect? Please add that proxy redirect rule to your site.</blockquote></p>
