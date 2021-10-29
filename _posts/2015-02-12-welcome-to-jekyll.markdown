@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Question 1 - Creating the Site"
-date:   2021-10-27
 categories: netlify questions
 ---
 <p><blockquote>Talk about how you made your site and why you chose the tools you did. Briefly explain one challenge you experienced in setting up this site and how you solved it.</blockquote></p>
