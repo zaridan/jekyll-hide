@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p>We all have our stories...(here's an abridged version of mine)</p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<p>I am a father of three, living in Central California among the dairies and farmland, at the base of the Sequoia National Forest.<p>
+<p>I've worked remotely for over 15 years.</p>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<p>When I'm not working (and sometimes as I am) you'll find me traveling with my family in our motorhome, which we've taken across the US 12 times. We've done this with our daughter who, amongst other things, does not walk or sit unassisted, and has seizures every day. I share this as a testament to families living with varying abilities, that anything is possible, and to encourage those living with daily adversity to embrace and enjoy life.</p>
+
+<p>I also spend a good deal of time practicing and training in Japanese Goju Ryu Karate, Nihon Jujutsu, and Brazilian Jiu Jitsu, and love to hobby with music (guitar) and photography.</p>
