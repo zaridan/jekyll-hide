@@ -5,5 +5,4 @@
   force = true
   headers = {X-From = "Netlify"}
 
-  [functions]
-    directory = "my_functions"
+  
