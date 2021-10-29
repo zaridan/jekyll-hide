@@ -15,8 +15,7 @@ categories: netlify questions
 
 <p><blockquote>Hello (customer first name),<p>
 <p>Thank you for writing to report this issue. The security of our customers is taken very seriously, and I will bring this report to our team for further investigation and mitigation right away.</p>
-<p>We greatly appreciate your report, and I would like to ensure you that we will take all necessary steps to resolve any discovered security issues.<p>
-<p>After further investigation, we will be sure to alert all customers to any necessary steps should they be needed.</p>
+<p>I would like to assure you that we will take all necessary steps to resolve any discovered security issues, and we will be sure to alert all customers to any necessary steps should they be needed.</p>
 <p>Please feel free to let us know if you have any questions or additional concerns.</p>
 <p>Best,<br>
 TJ Baker - Netlify Support</p>
