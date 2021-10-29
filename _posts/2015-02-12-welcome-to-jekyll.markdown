@@ -69,8 +69,7 @@ categories: netlify questions
 
 <p>If all the build log shows is this error, and no other information, I am going to have to share basic troubleshooting steps to the customer to help steer them torward a resolution through iterations. I might write something like:</p>
 
-<p>Hello <customer first name>,<br>
-<br>
+<p>Hello (customer first name),<br>
 Thank you for writing. This error can occur under a number of different scenarios. To work through this issue I'd start by asking if you have been able to successfully run a build previously? If so, let's take a look back at the successful build, and re-introduce your updates to your code one at a time, so that we can identify the change that introduced the issue.<p>
 <p>Please let us know if you have any additional questions we can assist with<p>
 <p>I look forward to hearing how it goes, and to seeing your successful build!</p>
