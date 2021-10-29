@@ -90,8 +90,17 @@ TJ Baker - Netlfiy Support</p>
   headers = {X-From = "Netlify"}
 {% endhighlight %}
 
-<p>
 
+<p>Adding a proxy redirect I'd also use the netlify.toml file.
+{% highlight html linenos %}
+[[redirects]]
+  from = "/proxy"
+  to = "https://swapi.dev/api/people/1/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+{% endhighlight %}
+<p>You can see it in action, here: <a href="https://itsallgood.netlify.app/proxy">https://itsallgood.netlify.app/proxy</a></p>
 
 <p><blockquote>Please attempt to deploy a function on our service. This need not be complicated, could be "Hello World" or something fancier. Note that failure to deploy is not failing the exercise! Whether you have trouble or not, please describe what you experienced and how you attempted to troubleshoot, instead. We won't be asking you to share the function (but you can if you want to!), we just want to hear about the experience in some detail.</blockquote></p>
 
