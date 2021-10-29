@@ -1,5 +1,4 @@
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
-  "start:lambda": "netlify-lambda serve src/lambda",
-  "build:lambda": "netlify-lambda build src/lambda"
+  
 },
