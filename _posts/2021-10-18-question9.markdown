@@ -18,6 +18,6 @@ A Netlify Function failed to require one of its dependencies.
 Please make sure it is present in the site's top-level "package.json".
 {% endhighlight %}
 
-<p>This prompted me to start troubleshooting, however, I was running out for this exercise and could not complete the troubleshooting for this function, so I decided to go try a simple hello world function.</p>
+<p>This prompted me to start troubleshooting, however, I was running out of time for this exercise and could not complete the troubleshooting for this function, so I decided to try a simple hello world function.</p>
 <p>After removing all of the test files I had added for trying the other function, I set up a simple hello.js file, and my build worked, however, I could not get the function to trigger.<p>
 <p>I would love to know what I was missing here...<p>
