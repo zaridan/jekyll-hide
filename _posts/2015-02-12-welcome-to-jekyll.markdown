@@ -103,6 +103,18 @@ TJ Baker - Netlfiy Support</p>
 <p>You can see it in action, here: <a href="https://itsallgood.netlify.app/proxy">https://itsallgood.netlify.app/proxy</a></p>
 
 <p><blockquote>Please attempt to deploy a function on our service. This need not be complicated, could be "Hello World" or something fancier. Note that failure to deploy is not failing the exercise! Whether you have trouble or not, please describe what you experienced and how you attempted to troubleshoot, instead. We won't be asking you to share the function (but you can if you want to!), we just want to hear about the experience in some detail.</blockquote></p>
+<p>At first I tried to use an example function I found in the library of examples, to call an external source and display crypto prices. I followed the documentation for defining my functions directory, added the directory to my root folder, and added a prices.js file that included an example function.<p>
+  <p>I attempted to trigger the function to no avail.<p>
+  <p>I decided to try a simple hello, world, function with hello.js and sample code from the site. On building, I noticed an error:
+{% highlight html %}
+  Dependencies installation error                               
+────────────────────────────────────────────────────────────────
+
+Error message
+A Netlify Function failed to require one of its dependencies.
+Please make sure it is present in the site's top-level "package.json".
+{% endhighlight %}
+<p>This prompted me to start troubleshooting, and that's where I am now ...</p>
 
 
 <p><blockquote>We understand you don't know anything about our internal procedures at this stage, but we want you to explain at a high level how you'd react to this situation: You receive a report of a severe security issue on www.netlify.com. You can't immediately confirm, so what steps might you take to investigate or substantiate the report? What might you say to the reporter, even though we haven't confirmed their assertion yet, that will still leave the true impression that our business is very concerned about security? You believe there is a reasonable chance the report is correct and the problem is very large and impactful. How might you escalate?
