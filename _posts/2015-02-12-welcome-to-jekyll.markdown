@@ -15,13 +15,13 @@ categories: netlify questions
 
 <p>One challenge I had right after deploying was in the Neflity setup steps, with Step 2 offering me to use a custom domain, and getting a bit stuck on wether I needed to set one up (register a domain and all that). I decided to just skip that step and see what happened, and found that the site was hosted at the URL that was set up by Netlify and I didn't need to use a custom domain.</p>
 
-<hr>
+
 
 <p><blockquote>What did you think of our service during the time you used it? Provide either some constructive criticism or some points that impressed you. Be honest! “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)</blockquote></p>
 
 <p>I think the service is great! As someone completely new to Netlify, as well being somewhat new to deploying different site building stacks, it made the job very easy and accessible. The one thing I might suggest is to maybe add some tooltips or other directions when getting to Step 2, so that a total noob like me could simply move on and not feel a need to set up a custom domain.</p>
 
-<hr>
+
 
 
 <p><blockquote>Rank your 5 favorite, and 5 least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6</blockquote></p>
@@ -45,7 +45,7 @@ categories: netlify questions
 </ul>
 </p>
 
-<hr>
+
 
 <p><blockquote>Provide a link to documentation for a technical/developer-focused product, which you think are well done, and explain why you think they are well done.</blockquote></p>
 <p>I'm a big fan of the documentation provided by Stripe: https://stripe.com/docs<p>
@@ -59,7 +59,7 @@ categories: netlify questions
 </ul>
 </p>
 
-<hr>
+
 
 <p><blockquote>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical customers hosting websites.</blockquote></p>
 <p>... to be continued</p>
