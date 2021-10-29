@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Question 4 - Awesome Docs"
+categories: netlify questions
+---
+<p><blockquote>Provide a link to documentation for a technical/developer-focused product, which you think are well done, and explain why you think they are well done.</blockquote></p>
+<p>I'm a big fan of the documentation provided by Stripe: https://stripe.com/docs<p>
+<p>Stripe has done a fantastic job of setting up a documentation site that is well structured, filled with very well written and helpful documentation, and is pleasing to look at. In addition to providing clear and helpful documentation on the functions they offer, they also provide great examples that can be cloned for testing. I think it's one of the best documented solutions I've seen.</p>

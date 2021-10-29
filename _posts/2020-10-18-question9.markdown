@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Question 9 - Functions on Netlify"
+categories: netlify questions
+---
+
+<p><blockquote>Please attempt to deploy a function on our service. This need not be complicated, could be "Hello World" or something fancier. Note that failure to deploy is not failing the exercise! Whether you have trouble or not, please describe what you experienced and how you attempted to troubleshoot, instead. We won't be asking you to share the function (but you can if you want to!), we just want to hear about the experience in some detail.</blockquote></p>
+<p>At first I tried to use an example function I found in the library of examples, to call an external source and display crypto prices. I followed the documentation for defining my functions directory, added the directory to my root folder, and added a prices.js file that included an example function.<p>
+  <p>On building, I noticed an error:<p>
+{% highlight html %}
+  Dependencies installation error                               
+────────────────────────────────────────────────────────────────
+
+Error message
+A Netlify Function failed to require one of its dependencies.
+Please make sure it is present in the site's top-level "package.json".
+{% endhighlight %}
+
+<p>This prompted me to start troubleshooting, however, I was running out for this exercise and could not complete the troubleshooting for this function, so I decided to go try a simple hello world function.</p>
+<p>After removing all of the test files I had added for trying the other function, I set up a simple hello.js file, and my build worked, however, I could not get the function to trigger.<p>
+<p>I would love to know what I was missing here...<p>

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Question 5 - SSL/HTTPS"
+categories: netlify questions
+---
+
+<p><blockquote>Why do you think SSL/HTTPS is important? Please provide at least 3 reasons.</blockquote><p>
+<p><ul>
+  <li>SSL/HTTPS is important because it helps protect users of the internet by providing trusted sources and by helping to protect their personal information</li>
+  <li>SSL/HTTPS is important because it helps businesses build trust in their visitors/customers, and helps protect their sites</li>
+  <li>SSL/HTTPS is important because it authenticates all the things!</li>
+</ul>
+</p>

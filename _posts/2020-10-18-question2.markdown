@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Question 2 - Thoughts on Netlify Service"
+categories: netlify questions
+---
+
+<p><blockquote>What did you think of our service during the time you used it? Provide either some constructive criticism or some points that impressed you. Be honest! “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)</blockquote></p>
+
+<p>I think the service is great! As someone completely new to Netlify, as well being somewhat new to deploying different site building stacks, it made the job very easy and accessible. The one thing I might suggest is to maybe add some tooltips or other directions when getting to Step 2, so that a total noob like me could simply move on and not feel a need to set up a custom domain.</p>
