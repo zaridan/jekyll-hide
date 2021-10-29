@@ -67,9 +67,9 @@ categories: netlify questions
 
 <p><blockquote>A customer writes in saying their “site won’t build”. You have access to their build logs, and there you see this error: Build failed due to a user error: Build script returned non-zero exit code: 2. You have no more information than this and the site’s source repository is private so you cannot test the build yourself. How would you troubleshoot this issue? Please compose your best customer-facing answer.</blockquote></p>
 
-<p>If all the build log shows is this error, and no other information, I am going to have to share basic troubleshooting steps to the customer to help steer them torward a resolution through iterations. I might write something like:</p>
+<p>If all the build log shows is this error, and no other information, I am going to have to share basic troubleshooting steps to the customer to help steer them torward a resolution through iterations. I might write something like the following:</p>
 
-<p>Hello (customer first name),<br>
+<p>Hello (customer first name),<br><br>
 Thank you for writing. This error can occur under a number of different scenarios. To work through this issue I'd start by asking if you have been able to successfully run a build previously? If so, let's take a look back at the successful build, and re-introduce your updates to your code one at a time, so that we can identify the change that introduced the issue.<p>
 <p>Please let us know if you have any additional questions we can assist with<p>
 <p>I look forward to hearing how it goes, and to seeing your successful build!</p>
@@ -79,6 +79,15 @@ TJ Baker - Netlfiy Support</p>
 
 
 <p><blockquote>How would you set up an http 301 status redirect from “/netlify/anything” on your site, to https://www.google.com/search?q=anything How about a proxy redirect? Please add that proxy redirect rule to your site.</blockquote></p>
+
+<p>To set up the 301 redirect I would the netlify.toml file and add the following:</p>
+<code>[[redirects]]
+  from = "/netlify/anything"
+  to = "https://www.google.com/search?q=anything"
+  status = 301
+  force = true
+  headers = {X-From = "Netlify"}</code>
+
 
 
 <p><blockquote>Please attempt to deploy a function on our service. This need not be complicated, could be "Hello World" or something fancier. Note that failure to deploy is not failing the exercise! Whether you have trouble or not, please describe what you experienced and how you attempted to troubleshoot, instead. We won't be asking you to share the function (but you can if you want to!), we just want to hear about the experience in some detail.</blockquote></p>
