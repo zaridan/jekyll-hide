@@ -10,3 +10,4 @@ github_username:  zaridan
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
