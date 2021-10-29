@@ -7,9 +7,18 @@ layout: default
   <h1 class="page-heading">Welcome!</h1>
   <p>Thank you for the opportunity to answer these questions, and for considering me as a candidate to join the team. I appreciate the opportunity and consideration.</p>
   <h2>A quick note about this site</h2>
-  <p>Questions and answers have all been displayed on this index page. You can click on a qustion title to read the answer as an individual post, if you'd like.
+  <p>Each question and answer is created as an individual post. I've included an index below as well as including everything on this page for those who might like to just read it all here</p>
+  <h3>Post Index</h3>
+  <ul>
+    {% for post in site.posts reversed %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 
-  {% for post in site.posts %}
+<h3>Questions & Answers</h3>
+  {% for post in site.posts reversed %}
 <article>
   <h2>
     <a href="{{ post.url }}">
@@ -21,11 +30,3 @@ layout: default
 {% endfor %}
 
 </div>
-
-<ul>
-  {% for post in site.posts reversed %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
