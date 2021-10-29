@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/bello"
-  to = "https://giphy.com/clips/justin-lol-laughing-minions-CJyRX8btFziYLt3WAT"
+  from = "/search"
+  to = "https://api.mysearch.com"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
