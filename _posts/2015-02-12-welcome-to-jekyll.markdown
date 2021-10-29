@@ -51,11 +51,11 @@ categories: netlify questions
 <p>I'm a big fan of the documentation provided by Stripe: https://stripe.com/docs<p>
 <p>Stripe has done a fantastic job of setting up a documentation site that is well structured, filled with very well written and helpful documentation, and is pleasing to look at. In addition to providing clear and helpful documentation on the functions they offer, they also provide great examples that can be cloned for testing. I think it's one of the best documented solutions I've seen.</p>
 
-<p><blockquote>Why do you think SSL/HTTPS is important? Please provide at least 3 reasons.</blockquote><br>
-<ul>
+<p><blockquote>Why do you think SSL/HTTPS is important? Please provide at least 3 reasons.</blockquote><p>
+<p><ul>
   <li>SSL/HTTPS is important because it helps protect users of the internet by providing trusted sources and by helping to protect their personal information</li>
   <li>SSL/HTTPS is important because it helps businesses build trust in their visitors/customers, and helps protect their sites</li>
-  <li>SSL/HTTPS is important because it authenticates all the things!
+  <li>SSL/HTTPS is important because it authenticates all the things!</li>
 </ul>
 </p>
 
