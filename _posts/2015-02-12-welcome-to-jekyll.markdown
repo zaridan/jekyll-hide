@@ -57,7 +57,7 @@ categories: netlify questions
   <li>SSL/HTTPS is important because it helps businesses build trust in their visitors/customers, and helps protect their sites</li>
   <li>SSL/HTTPS is important because it authenticates all the things!
 </ul>
-<p>
+</p>
 
 <hr>
 
